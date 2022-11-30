@@ -1,0 +1,3 @@
+<h2>Comparison Chart for Best {keyword}</h2>
+<br>
+You might be surprised to know that we gone through a total of {prodNum} reviews to compile only the very best products for you! As we analyzed the products and their customer reviews, we could finalize the following list for the {keyword}.

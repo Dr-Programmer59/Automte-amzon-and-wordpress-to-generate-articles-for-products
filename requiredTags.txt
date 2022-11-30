@@ -1,0 +1,6 @@
+
+Hi,
+You can use {keyword} for adding keyword in you pargaraph
+
+
+for adding random number u can use {prodNum}
