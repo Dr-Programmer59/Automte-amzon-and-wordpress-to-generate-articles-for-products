@@ -296,7 +296,7 @@ def search(keywords_path,prefix,sufix,ref_code,progressBar,prodsNum,wp_admin,wp_
             os.remove(f"images/{title}2.jpg")
             os.remove(f"images/{title}3.jpg")
             
-            progressBar.setText(f"The {title} has been posted with status code [{r}]")
+            progressBar.setText(f"The {title} has been sucessfully posted with status code [{r}]")
         except:
             progressBar.setText(f"The {title} has been posted with status code [404]")
 
